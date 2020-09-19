@@ -14,7 +14,7 @@ This dataset is free and is publicly available at the UCI Machine Learning Repos
 * The aim of this project was to gain exposure to Machine Learning Classification concepts along with data visualization. 
 * The project makes use of Scikit-Learn, Numpy,Pandas and Data Visualization Libraries.
 * A comparitive study on various classifiers was also performed.
-    The classifiers are:
+    The classifiers are:  
     --KNN Classifier  
     --SVM Classifier  
     --Decision Tree  
