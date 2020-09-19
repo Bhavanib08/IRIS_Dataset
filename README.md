@@ -9,3 +9,7 @@ The dataset contains a set of 150 records under 5 attributes - Petal Length, Pet
 
 ## Acknowledgements
 This dataset is free and is publicly available at the UCI Machine Learning Repository
+
+# Purpose
+The aim of this project was to gain exposure to Machine Learning Classification concepts along with data visualization. 
+The project makes use of Scikit-Learn, Pandas and Data Visualization Libraries.
